@@ -38,7 +38,7 @@ Running the Application
 
 Clone this repository:
 
-git clone https://github.com/waqar373-ux/Password_Strength_Checker
+git clone https://github.com/waqar373-ux/Password_Strength_Checker.git
 
 Navigate to the project directory:
 
